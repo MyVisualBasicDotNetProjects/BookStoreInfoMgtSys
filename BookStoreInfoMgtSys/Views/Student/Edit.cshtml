@@ -1,0 +1,85 @@
+﻿@model BookStoreInfoMgtSys.Models.Student
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Student</legend>
+
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.FirstName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.FirstName)
+            @Html.ValidationMessageFor(model => model.FirstName)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.LastName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.LastName)
+            @Html.ValidationMessageFor(model => model.LastName)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Department)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Department)
+            @Html.ValidationMessageFor(model => model.Department)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.College)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.College)
+            @Html.ValidationMessageFor(model => model.College)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.EnrollmentYear)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.EnrollmentYear)
+            @Html.ValidationMessageFor(model => model.EnrollmentYear)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Section)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Section)
+            @Html.ValidationMessageFor(model => model.Section)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.StudentEmail)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.StudentEmail)
+            @Html.ValidationMessageFor(model => model.StudentEmail)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

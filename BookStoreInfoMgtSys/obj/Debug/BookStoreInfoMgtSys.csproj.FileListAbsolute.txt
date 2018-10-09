@@ -1,0 +1,98 @@
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\BookStoreInfoMgtSys.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\BookStoreInfoMgtSys.pdb
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Antlr3.Runtime.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.AspNet.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.Core.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OAuth.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OpenId.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\EntityFramework.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Microsoft.Web.Infrastructure.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Newtonsoft.Json.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Net.Http.Formatting.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Helpers.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Http.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Http.WebHost.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Mvc.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Optimization.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Razor.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.Deployment.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.Razor.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\WebGrease.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\WebMatrix.Data.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\WebMatrix.WebData.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\EntityFramework.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Newtonsoft.Json.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Net.Http.Formatting.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Helpers.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Http.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Http.WebHost.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Mvc.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Razor.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.Deployment.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.Razor.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\WebMatrix.Data.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\WebMatrix.WebData.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.AspNet.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.Core.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OAuth.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OpenId.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\obj\Debug\BookStoreInfoMgtSys.dll
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\obj\Debug\BookStoreInfoMgtSys.pdb
+D:\0. My Haramaya Unviersity Files\Training Related\BookStoreInfoMgtSys\BookStoreInfoMgtSys\obj\Debug\BookStoreInfoMgtSys.csprojResolveAssemblyReference.cache
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\BookStoreInfoMgtSys.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\BookStoreInfoMgtSys.pdb
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Antlr3.Runtime.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.AspNet.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.Core.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OAuth.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OpenId.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\EntityFramework.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Newtonsoft.Json.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Net.Http.Formatting.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Helpers.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Http.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Http.WebHost.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Mvc.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Optimization.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Razor.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.Razor.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\WebGrease.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\WebMatrix.Data.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\WebMatrix.WebData.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\EntityFramework.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Newtonsoft.Json.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Net.Http.Formatting.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Helpers.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Http.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Http.WebHost.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Mvc.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.Razor.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\System.Web.WebPages.Razor.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\WebMatrix.Data.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\WebMatrix.WebData.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.AspNet.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.Core.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OAuth.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OpenId.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\obj\Debug\BookStoreInfoMgtSys.csprojResolveAssemblyReference.cache
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\obj\Debug\BookStoreInfoMgtSys.dll
+D:\Projects\BookStoreInfoMgtSys\BookStoreInfoMgtSys\obj\Debug\BookStoreInfoMgtSys.pdb

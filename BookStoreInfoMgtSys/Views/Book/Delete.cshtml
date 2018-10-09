@@ -1,0 +1,109 @@
+﻿@model BookStoreInfoMgtSys.Models.Book
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Book</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ISBN)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ISBN)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Title)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Title)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.AuthorName)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.AuthorName)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.BookDescription)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.BookDescription)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Edition)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Edition)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Publisher)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Publisher)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.PublicationYear)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PublicationYear)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.BookCategory)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.BookCategory)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ShelfNumber)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ShelfNumber)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Price)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Price)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.TotalNumberOfCopies)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.TotalNumberOfCopies)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.NumberOfBooksOnLoan)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.NumberOfBooksOnLoan)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.NumberOfBooksAvailable)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.NumberOfBooksAvailable)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}
